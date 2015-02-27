@@ -1,5 +1,3 @@
-# group_prg
-Group poet's project
-dmitry is in
-See and v
-evnemich: День и ночь
+troe88.txt - Night minds
+seead.md - Sea and Rock
+evnemich.txt - День и ночь
